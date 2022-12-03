@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Movies"
+        android:icon="@drawable/icons8_film_reel_25"
+        android:id="@+id/menu_movies">
+    </item>
+
+    <item android:title="Profile"
+        android:icon="@drawable/icons8_male_user_32"
+        android:id="@+id/menu_profile">
+    </item>
+
+
+</menu>
